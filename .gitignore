@@ -1,0 +1,6 @@
+# Build and Object Folders
+/*/bin/
+/*/obj/
+*.suo
+/packages
+*.tmp
